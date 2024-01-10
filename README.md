@@ -1,5 +1,5 @@
 # Equity Price Channel (2016)
-Replication code for ``The equity price channel in a New-Keynesian DSGEmodel with financial frictions and banking'' by H. Hollander and G. Liu (2016)
+Replication code for "The equity price channel in a New-Keynesian DSGEmodel with financial frictions and banking" by H. Hollander and G. Liu (2016)
 
 ## Abstract
 
